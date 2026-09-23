@@ -1,1 +1,1 @@
-# Dise-oDePatrones---SistemaDeGestion
+# DiseñoDePatrones---SistemaDeGestion
