@@ -1,4 +1,4 @@
-package com.universidad.model.service;
+package com.universidad.service;
 
 import com.universidad.model.Curso;
 import com.universidad.model.Estudiante;

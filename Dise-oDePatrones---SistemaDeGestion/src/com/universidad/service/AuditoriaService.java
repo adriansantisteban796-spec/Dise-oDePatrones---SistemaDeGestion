@@ -1,4 +1,4 @@
-package com.universidad.model.service;
+package com.universidad.service;
 
 import java.util.Date;
 

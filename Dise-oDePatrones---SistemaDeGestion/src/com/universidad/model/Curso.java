@@ -13,11 +13,12 @@ public class Curso {
         this.vacantesDisponibles = vacantesDisponibles;
     }
 
-    public boolean tieneVacantes(){
+    public boolean tieneVacantes() {
         return vacantesDisponibles > 0;
     }
 
-    public void reducirVacantes(){
+    // MÉTODO QUE FALTABA
+    public void reducirVacante() {
         if (vacantesDisponibles > 0) {
             vacantesDisponibles--;
         }
@@ -38,8 +39,4 @@ public class Curso {
     public int getVacantesDisponibles() {
         return vacantesDisponibles;
     }
-
-    
-
-    
 }

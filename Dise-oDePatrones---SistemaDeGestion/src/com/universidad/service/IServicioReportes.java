@@ -1,4 +1,4 @@
-package com.universidad.model.service;
+package com.universidad.service;
 
 public interface IServicioReportes {
     void generarReporteRendimiento(int idCarrera);
