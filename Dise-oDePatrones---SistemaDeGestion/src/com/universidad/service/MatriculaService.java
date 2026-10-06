@@ -11,7 +11,7 @@ public class MatriculaService implements IServicioMatricula {
     private final AuditoriaService auditoria;
     private final INotificacionService notificador;
 
-    // Inyección de dependencias por constructor (DIP)
+  
     public MatriculaService(ValidadorMatricula validador, AuditoriaService auditoria, INotificacionService notificador) {
         this.validador = validador;
         this.auditoria = auditoria;
