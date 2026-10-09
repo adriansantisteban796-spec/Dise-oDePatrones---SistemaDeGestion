@@ -9,7 +9,6 @@ public class Matricula {
     private String estado;
     private Date fechaRegistro;
 
-    // CONSTRUCTOR CORREGIDO DE 3 PARÁMETROS
     public Matricula(int idMatricula, Estudiante estudiante, Curso curso) {
         this.idMatricula = idMatricula;
         this.estudiante = estudiante;
