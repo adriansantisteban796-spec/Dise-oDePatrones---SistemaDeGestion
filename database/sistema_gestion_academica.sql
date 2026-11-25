@@ -1,9 +1,4 @@
--- ============================================================
--- Sistema de Gestión Académica - Universidad Privada
--- Base de datos MySQL basada en el código Java del proyecto
--- (paquete com.universidad: model, service y patrones)
--- Requiere MySQL 8.0.16 o superior (para que se apliquen los CHECK)
--- ============================================================
+
 
 DROP DATABASE IF EXISTS gestion_academica;
 CREATE DATABASE gestion_academica
